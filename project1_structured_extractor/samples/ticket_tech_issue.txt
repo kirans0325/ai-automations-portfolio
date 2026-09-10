@@ -1,0 +1,10 @@
+Subject: DataFlow API returning 500 Internal Server Error
+
+Hello Support,
+
+Our automated sync pipeline for DataFlow failed at 14:00 UTC with a 500 Internal Server Error when querying the /v2/records endpoint.
+It affected our primary production database sync. Could your engineering team investigate the server logs to see if there is an ongoing outage?
+
+Thanks,
+Sarah Connor
+Developer at Cyberdyne Inc
