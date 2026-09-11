@@ -1,0 +1,11 @@
+# Global SaaS Tech Solutions - Remote Work & Equipment Policy
+
+## 1. Remote Work Eligibility
+All full-time software engineers, product managers, and support staff are eligible for hybrid or full-time remote work after completing their 30-day initial onboarding period.
+
+## 2. Hardware Stipend & Laptop Policy
+Each remote employee is entitled to a one-time remote home office setup stipend of $1,200 USD. This covers ergonomic desks, external monitors, and peripherals.
+Standard issue work laptops (Apple MacBook Pro M3 or Dell XPS 15) remain the sole property of Global SaaS Tech Solutions and must be returned upon employment termination.
+
+## 3. Work Hours & Timezone Expectation
+Employees must maintain core working availability between 10:00 AM and 3:00 PM in their local primary timezone. All client emergencies must be reported in the #incident-response Slack channel.

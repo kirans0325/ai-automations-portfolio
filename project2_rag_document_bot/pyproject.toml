@@ -1,0 +1,20 @@
+[project]
+name = "project2-rag-document-bot"
+version = "0.1.0"
+description = "Retrieval-Augmented Generation (RAG) Document QA Engine"
+readme = "NOTES.md"
+requires-python = ">=3.10"
+dependencies = [
+    "pydantic>=2.0.0",
+    "google-genai>=0.1.0",
+    "python-dotenv>=1.0.0",
+    "rich>=13.0.0",
+    "numpy>=1.24.0",
+]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src"]

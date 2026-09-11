@@ -1,0 +1,10 @@
+# Analytics Hub Enterprise Product Manual
+
+## 1. Dashboard Customization
+Analytics Hub allows team leads to configure custom real-time metrics dashboards. To add a widget, navigate to Dashboard -> Edit Layout -> Add Widget.
+
+## 2. Exporting Reports
+Reports can be scheduled for automated PDF or CSV email delivery every Monday at 08:00 AM UTC. To setup automated exports, go to Account Settings -> Automated Workflows.
+
+## 3. Dark Mode Configuration
+Dark mode can be enabled in User Preferences -> Display Theme -> Select Dark Mode.
